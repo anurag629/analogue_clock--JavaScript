@@ -7,6 +7,6 @@ drawClock();
 
 function drawClock() {
     ctx.arc(0, 0, radius, 0, 2 * Math.PI);
-    ctx.fillStyle = "yellow";
+    ctx.fillStyle = "pink";
     ctx.fill();
 }
